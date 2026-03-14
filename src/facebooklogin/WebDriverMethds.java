@@ -17,6 +17,11 @@ public class WebDriverMethds {
 		System.out.println(driver.getWindowHandle());
 		System.out.println();
 		System.out.println(driver.getPageSource());
+		
+		System.out.println("reverse string using Streams");
+		System.out.println("reverse string using Streams");
+		System.out.println("reverse string using Streams");
+		
 		Thread.sleep(3000);
 		driver.quit();
 	}
