@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-21T13:03:47 IST" name="Default suite" finished-at="2025-03-21T13:04:16 IST" duration-ms="28712">
+    <groups>
+    </groups>
+    <test started-at="2025-03-21T13:03:47 IST" name="Default test" finished-at="2025-03-21T13:04:16 IST" duration-ms="28712">
+      <class name="handlingwindowsalertsframe.MultipleWindow2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:handlingwindowsalertsframe.MultipleWindow2@48974e45]" started-at="2025-03-21T13:03:47 IST" name="setUp" finished-at="2025-03-21T13:03:54 IST" duration-ms="6920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleWindowsTest()[pri:0, instance:handlingwindowsalertsframe.MultipleWindow2@48974e45]" started-at="2025-03-21T13:03:54 IST" name="multipleWindowsTest" finished-at="2025-03-21T13:04:13 IST" duration-ms="18332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleWindowsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:handlingwindowsalertsframe.MultipleWindow2@48974e45]" started-at="2025-03-21T13:04:13 IST" name="teardown" finished-at="2025-03-21T13:04:16 IST" duration-ms="3421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- handlingwindowsalertsframe.MultipleWindow2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
